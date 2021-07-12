@@ -2,7 +2,7 @@
 
 ---
 
-Most folks (professionally) would call me a Quality Engineer. Most recently I was a part of the [Harvest](https://github.com/harvesthq) team where I started their QA team, developed their QA process and procedures, and developed a good chunk of the automated testing code behind this popular time tracking application.
+Most folks (professionally) would call me a Quality Engineer. I was a part of the [Harvest](https://github.com/harvesthq) team where I started their QA team, developed their QA process and procedures, and developed a good chunk of the automated testing code behind this popular time tracking application. Today, I work for [Checkfront](https://github.com/checkfront) helping out with their QA efforts.
 
 ---
 ### 🧰 Toolbox
