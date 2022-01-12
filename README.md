@@ -4,6 +4,8 @@
 
 Most folks (professionally) would call me a Quality Engineer. I was a part of the [Harvest](https://github.com/harvesthq) team where I started their QA team, developed their QA process and procedures, and developed a good chunk of the automated testing code behind this popular time tracking application. Today, I work for [Automattic](https://www.automattic.com/) helping out with their QA efforts on the WooCommerce team.
 
+Feel free to reach out at jonathan dot lane at gmail dot com if you need to get in touch with me!
+
 ---
 ### 🧰 Toolbox
 
